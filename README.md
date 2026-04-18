@@ -101,6 +101,11 @@ Switchify/
 
 ---
 
+DEMO VIDEO
+https://youtu.be/mVySnw_Y8Q4?si=qJ335BxuRYd-YJoK
+
+---
+
 ▶️ How to Run
 
 1. Clone the repo
